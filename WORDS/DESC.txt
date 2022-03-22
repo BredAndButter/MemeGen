@@ -1,0 +1,1 @@
+Folder to hold words to use and location of images to use.
